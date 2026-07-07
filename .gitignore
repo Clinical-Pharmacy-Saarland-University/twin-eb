@@ -1,0 +1,16 @@
+# --- Confidential: keep the grant proposal OUT of the repository ---------
+# The submission PDF contains budget, CVs, IP/patent and other confidential
+# material. Do NOT publish it (especially if this repo / GitHub Pages is public).
+Proposal/
+
+# --- OS / editor cruft ----------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/
+
+# --- Local tooling --------------------------------------------------------
+.claude/launch.json
+node_modules/
