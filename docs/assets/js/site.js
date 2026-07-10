@@ -55,13 +55,13 @@
           "<div><h4>Get involved</h4><ul>" +
             '<li><a href="families.html">For families</a></li>' +
             '<li><a href="team.html">Team &amp; partners</a></li>' +
-            '<li><a href="mailto:thorsten.lehr@mx.uni-saarland.de">Email the team</a></li>' +
+            '<li><a href="mailto:twineb@uni-saarland.de">Email the team</a></li>' +
           "</ul></div>" +
         "</div>" +
         '<div class="footer__bottom">' +
           '<span>&copy; <span id="year">2026</span> TWIN-EB project &middot; Saarland University. ' +
             "Funded by DEBRA International &amp; LifeArc.</span>" +
-          "<span>v0.1.0-alpha</span>" +
+          '<span><a href="changelog.html">v0.1.0-beta &middot; What&rsquo;s new</a></span>' +
         "</div>" +
       "</div>"
     );

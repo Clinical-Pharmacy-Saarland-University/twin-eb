@@ -13,7 +13,7 @@ population PK/PD models and a prospective paediatric clinical study (**LESS-EB**
 - **Lead:** Prof. Dr. Thorsten Lehr, Clinical Pharmacy, Saarland University
 - **Funded by:** DEBRA International & LifeArc (CIF Repurposing programme)
 - **Duration:** 1 July 2026 – 2029 (36 months)
-- **Version:** 0.1.0-alpha
+- **Version:** 0.1.0-beta — see [CHANGELOG.md](CHANGELOG.md)
 
 ## Repository layout
 
