@@ -61,7 +61,7 @@
         '<div class="footer__bottom">' +
           '<span>&copy; <span id="year">2026</span> TWIN-EB project &middot; Saarland University. ' +
             "Funded by DEBRA International &amp; LifeArc.</span>" +
-          '<span><a href="changelog.html">v0.1.0-beta &middot; What&rsquo;s new</a></span>' +
+          "<span>v0.1.0-beta</span>" +
         "</div>" +
       "</div>"
     );

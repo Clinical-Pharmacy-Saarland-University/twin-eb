@@ -14,13 +14,15 @@ First tracked release. The site is live on GitHub Pages.
 - Plain-language "For families" content, including how the project models losartan (PBPK and population PK).
 - REFLECT trial summary with DOI link, study-centre addresses, and a dedicated project email (`twineb@uni-saarland.de`).
 - Placeholders for figures, partner logos and team photos, ready to be replaced with real assets.
-- This changelog, linked from the site footer.
+- Landing-page tiles for the project sections, ready for AI-generated background images.
+- This changelog, maintained on GitHub.
 
 ### Changed
 - Incorporated the first external review round across all pages.
 - Sober, scientific tone throughout; no emotional/marketing phrasing and no em-dashes as pauses.
 - Landing page now leads with the full project title.
 - Project name set to **TWIN-EB**; the clinical study remains **LESS-EB**.
+- Referenced the REFLECT trial on the "For families" page; on-site footer now shows the version number only (this changelog is kept on GitHub).
 
 ## [0.1.0-alpha] – 2026-07
 
