@@ -547,3 +547,10 @@ a.card-link:hover { color: inherit; }
 .tile--wide { grid-column: 1 / -1; min-height: 150px; }
 @media (max-width: 940px) { .tiles { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 600px) { .tiles { grid-template-columns: 1fr; } }
+
+/* Sub-page header with a photo banner (mirrors each landing tile; background-image is set inline per page) */
+.subhero--photo { color: #fff; background-color: var(--teal-800); background-size: cover; background-position: center; border-bottom: 0; }
+.subhero--photo .subhero__inner { padding-block: clamp(3rem, 7vw, 5.5rem); }
+.subhero--photo .eyebrow { color: var(--coral-100); }
+.subhero--photo h1 { color: #fff; }
+.subhero--photo .lead { color: rgba(255, 255, 255, .92); }
