@@ -553,7 +553,10 @@ a.logo:hover { transform: translateY(-2px); box-shadow: var(--shadow-md); border
 @media (max-width: 600px) { .tiles { grid-template-columns: 1fr; } }
 
 /* Sub-page header with a photo banner (mirrors each landing tile; background-image is set inline per page) */
-.subhero--photo { color: #fff; background-color: var(--teal-800); background-size: cover; background-position: center; border-bottom: 0; }
+/* The banner is much wider than the source images, so `cover` crops them vertically. The images were
+   composed with their subject in the upper area, hence `top` rather than `center` (a page may override
+   this inline where its subject sits lower). */
+.subhero--photo { color: #fff; background-color: var(--teal-800); background-size: cover; background-position: center top; border-bottom: 0; }
 .subhero--photo .subhero__inner { padding-block: clamp(3rem, 7vw, 5.5rem); }
 .subhero--photo .eyebrow { color: var(--coral-100); }
 .subhero--photo h1 { color: #fff; }
