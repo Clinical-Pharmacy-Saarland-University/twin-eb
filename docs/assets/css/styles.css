@@ -32,7 +32,7 @@
   --ink-900: #221f1b;   /* headings */
   --ink-700: #443f38;
   --ink-600: #5c564d;   /* body */
-  --ink-400: #8a8479;   /* muted */
+  --ink-400: #706a60;   /* muted - darkened to meet WCAG AA (4.5:1) on white and on the sand backgrounds */
 
   --white: #ffffff;
 

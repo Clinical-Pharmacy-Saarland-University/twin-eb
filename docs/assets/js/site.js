@@ -31,7 +31,9 @@
         '<a class="brand brand--wordmark" href="index.html" aria-label="TWIN-EB — home">TWIN-EB</a>' +
         '<button class="nav__toggle" id="navToggle" aria-label="Menu" aria-expanded="false" aria-controls="navLinks">' +
           "<span></span><span></span><span></span></button>" +
-        '<ul class="nav__links" id="navLinks">' + items + cta + "</ul>" +
+        '<nav aria-label="Main">' +
+          '<ul class="nav__links" id="navLinks">' + items + cta + "</ul>" +
+        "</nav>" +
       "</div>"
     );
   }
