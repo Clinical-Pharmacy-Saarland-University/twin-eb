@@ -3,6 +3,11 @@
 # material. Do NOT publish it (especially if this repo / GitHub Pages is public).
 Proposal/
 
+# --- Raw asset staging ----------------------------------------------------
+# Originals (team photos, logo packs, source images) stay local. Only the
+# processed, web-ready versions under docs/assets/ belong in the repository.
+Pictures/
+
 # --- OS / editor cruft ----------------------------------------------------
 .DS_Store
 Thumbs.db
