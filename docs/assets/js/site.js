@@ -57,7 +57,7 @@
           "<div><h4>Get involved</h4><ul>" +
             '<li><a href="families.html">For families</a></li>' +
             '<li><a href="team.html">Team &amp; partners</a></li>' +
-            '<li><a href="mailto:twineb@uni-saarland.de">Email the team</a></li>' +
+            '<li><a href="mailto:project-twineb@uni-saarland.de">Email the team</a></li>' +
           "</ul></div>" +
         "</div>" +
         '<div class="footer__bottom">' +
